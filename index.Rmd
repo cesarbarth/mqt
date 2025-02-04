@@ -1,5 +1,5 @@
 ---
-title: "Conceitos e análises estatísticas com R e JASP"
+title: "Conceitos e análises estatísticas com R e JASP - Fork test"
 author: '[Luis Anunciação (PUC-Rio), PhD](mailto: luisfca@puc-rio.br)'
 always_allow_html: yes
 output:
